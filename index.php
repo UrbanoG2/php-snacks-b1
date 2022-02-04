@@ -4,6 +4,9 @@
 A partire dall'array realizzato stamattina, realizziamo una API che chiameremo con Vue. -->
 
 
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,8 +20,11 @@ A partire dall'array realizzato stamattina, realizziamo una API che chiameremo c
 <body>
     
 
-<div class="container" id="app" >
 
+ <div class="container" id="app" >
+    <div v-for="(car,index) in cars"  class="contained">
+        <h2> {{ car.modello }} </h2>
+    </div>
 </div>
 
 
