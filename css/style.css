@@ -1,0 +1,40 @@
+.title {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.contained {
+    width: calc(100% / 4 - 30px);
+    border: 1px solid black;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.contained ul {
+    list-style: none;
+}
+
+.img-container {
+    display: flex;
+    justify-content:center;
+    margin-bottom: 10px;
+}
+
+.img-container img {
+    border-radius: 15px;
+}
+
+.contained h1 {
+    text-transform: uppercase;
+    font-size: 1.2em;
+}

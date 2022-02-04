@@ -12,7 +12,7 @@ $cars = [
         "chilometraggio" => "120.000Km",
         "anno" => "2015",
         "consumoMedio" => "10Km/L",
-        "img" => "https://picsum.photos/200/300",
+        "img" => "488.jpg",
     ],
 
     [
@@ -25,7 +25,7 @@ $cars = [
         "chilometraggio" => "40.000Km",
         "anno" => "2011",
         "consumoMedio" => "6Km/L",
-        "img" => "https://picsum.photos/200/300",
+        "img" => "aventador.jpg",
     ],
 
     [
@@ -38,7 +38,7 @@ $cars = [
         "chilometraggio" => "220.000",
         "anno" => "2002",
         "consumoMedio" => "40Km/L",
-        "img" => "https://picsum.photos/200/300",
+        "img" => "panda.jpg",
     ],
 
     [
@@ -51,7 +51,7 @@ $cars = [
         "chilometraggio" => "100.000",
         "anno" => "2002",
         "consumoMedio" => "16Km/L",
-        "img" => "https://picsum.photos/200/300",
+        "img" => "delta.jpg",
     ],
 
     [
@@ -64,7 +64,7 @@ $cars = [
         "chilometraggio" => "100.000.000.000",
         "anno" => "1970",
         "consumoMedio" => "9Km/L",
-        "img" => "https://picsum.photos/200/300",
+        "img" => "delorean.jpg",
     ],
 
     [
@@ -77,7 +77,7 @@ $cars = [
         "chilometraggio" => "40.000Km",
         "anno" => "2011",
         "consumoMedio" => "6Km/L",
-        "img" => "https://picsum.photos/200/300",
+        "img" => "gallardo.jpg",
     ],
 
     [
@@ -90,11 +90,11 @@ $cars = [
         "chilometraggio" => "100.000",
         "anno" => "2002",
         "consumoMedio" => "16Km/L",
-        "img" => "https://picsum.photos/200/300",
+        "img" => "musa.jpg",
     ],
 
     [
-        "id" => "1",
+        "id" => "8",
         "cilindrata" => "3.902 cm³",
         "potenza" => "670 CV",
         "casaAutomobilistica" => "Ferrari",
@@ -103,7 +103,7 @@ $cars = [
         "chilometraggio" => "120.000Km",
         "anno" => "2015",
         "consumoMedio" => "10Km/L",
-        "img" => "https://picsum.photos/200/300",
+        "img" => "california.jpg",
     ],
 ]
 
